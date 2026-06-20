@@ -4,7 +4,7 @@ Personal portfolio website for Taiwo Victor Aworinde,
 Certified Virtual Assistant (ALX Africa).
 
 ## Live Site
-https://yourusername.github.io/taiwo-va-portfolio
+https://awoist02.github.io/taiwo-va-portfolio
 
 ## About
 This portfolio showcases my VA services, featured projects, 
